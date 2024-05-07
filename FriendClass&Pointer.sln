@@ -5,11 +5,13 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FriendClass&Pointer", "FriendClass&Pointer\FriendClass&Pointer.vcxproj", "{A1B7569E-4A5B-4794-80CA-8CC2CC94D258}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FriendClass&Pointer2", "FriendClass&Pointer2\FriendClass&Pointer2.vcxproj", "{6743FCB2-7EB7-480C-8744-355DEA1ABC58}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PointerSatu_FriendClass&Pointer2", "FriendClass&Pointer2\FriendClass&Pointer2.vcxproj", "{6743FCB2-7EB7-480C-8744-355DEA1ABC58}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FriendClass&Pointer3", "FriendClass&Pointer3\FriendClass&Pointer3.vcxproj", "{AE0721D9-CF85-4CDD-899C-6F25E27D4561}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PointerDua_FriendClass&Pointer3", "FriendClass&Pointer3\FriendClass&Pointer3.vcxproj", "{AE0721D9-CF85-4CDD-899C-6F25E27D4561}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FriendClassSatu_FriendClass&Pointer4", "FriendClassSatu_FriendClass&Pointer4\FriendClassSatu_FriendClass&Pointer4.vcxproj", "{AECD4436-8C31-4A5E-8C10-06ECE4595E39}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FriendFunctionSatu_FriendClass&Pointer5", "FriendFunctionSatu_FriendClass&Pointer5\FriendFunctionSatu_FriendClass&Pointer5.vcxproj", "{732A1CDF-9552-4E85-98AE-C3E9261F4E47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,14 @@ Global
 		{AECD4436-8C31-4A5E-8C10-06ECE4595E39}.Release|x64.Build.0 = Release|x64
 		{AECD4436-8C31-4A5E-8C10-06ECE4595E39}.Release|x86.ActiveCfg = Release|Win32
 		{AECD4436-8C31-4A5E-8C10-06ECE4595E39}.Release|x86.Build.0 = Release|Win32
+		{732A1CDF-9552-4E85-98AE-C3E9261F4E47}.Debug|x64.ActiveCfg = Debug|x64
+		{732A1CDF-9552-4E85-98AE-C3E9261F4E47}.Debug|x64.Build.0 = Debug|x64
+		{732A1CDF-9552-4E85-98AE-C3E9261F4E47}.Debug|x86.ActiveCfg = Debug|Win32
+		{732A1CDF-9552-4E85-98AE-C3E9261F4E47}.Debug|x86.Build.0 = Debug|Win32
+		{732A1CDF-9552-4E85-98AE-C3E9261F4E47}.Release|x64.ActiveCfg = Release|x64
+		{732A1CDF-9552-4E85-98AE-C3E9261F4E47}.Release|x64.Build.0 = Release|x64
+		{732A1CDF-9552-4E85-98AE-C3E9261F4E47}.Release|x86.ActiveCfg = Release|Win32
+		{732A1CDF-9552-4E85-98AE-C3E9261F4E47}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

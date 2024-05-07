@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ae0721d9-cf85-4cdd-899c-6f25e27d4561}</ProjectGuid>
-    <RootNamespace>FriendClassPointer3</RootNamespace>
+    <ProjectGuid>{732a1cdf-9552-4e85-98ae-c3e9261f4e47}</ProjectGuid>
+    <RootNamespace>FriendFunctionSatuFriendClassPointer5</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>PointerDua_FriendClass&amp;Pointer3</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="FriendClass&amp;Pointer3.cpp" />
+    <ClCompile Include="FriendFunctionSatu_FriendClass&amp;Pointer5.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
