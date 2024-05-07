@@ -13,6 +13,8 @@ public :
 class segitiga {
 public:
 	int tinggi, alas;
-
-
+	int luasSegiTiga(int a, int t) {
+		return 0.5 * a * t;
+	}
+	
 };
